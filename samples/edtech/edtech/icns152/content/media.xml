@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<media version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+	<clip id="1">
+		<title>Clip#1</title>
+		<description>Mangrove Forest Ecosystem, Vivipary and Seed Dispersal</description>
+		<image size="">cover_media_1.png</image>
+		<source>01_mangroves.mp4</source>
+	</clip>
+	<clip id="2">
+		<title>Clip#2</title>
+		<description>Buffer against Waves and Storms</description>
+		<image size="">cover_media_2.png</image>
+		<source>02_sunami.mp4</source>
+	</clip>	
+	<clip id="3">
+		<title>Clip#3</title>
+		<description>Figs and Fig Wasps</description>
+		<image size="">cover_media_3.png</image>
+		<source>Fig_Animation.mp4</source>
+	</clip>
+	<clip id="4">
+		<title>Clip#4</title>
+		<description>Modes of Coexistence</description>
+		<image size="">cover_media_4.png</image>
+		<source>jungle.mp4 </source>
+	</clip>		
+</media>
+

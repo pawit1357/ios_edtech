@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<contact version="1.0"
+	xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+	<teacher id="1">
+		<picture size="">images/teacher_1.png</picture>
+		<Lecturer>Dr. Ramesh BOONRATANA</Lecturer>
+		<subject>ICNS 152 THE SOUTHEAST ASIA ECOLOGY </subject>
+		<email>xxxx@mahidol.ac.th</email>
+		<phone>08XXXXXX</phone>
+		<description>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</description>
+	</teacher>
+</contact>
+

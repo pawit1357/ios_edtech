@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<menus version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+	<menu id="1">
+		<name>home</name>
+		<src>home.xml</src>
+	</menu>
+	<menu id="2">
+		<name>index</name>
+		<src>index.xml</src>
+	</menu>
+	<menu id="3">
+		<name>media</name>
+		<src>media.xml</src>
+	</menu>
+	<menu id="4">
+		<name>ar</name>
+		<src>ar.xml</src>
+	</menu>
+	<menu id="5">
+		<name>contact</name>
+		<src>contacts.xml</src>
+	</menu>
+</menus>
+
